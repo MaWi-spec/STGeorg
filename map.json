@@ -95,8 +95,13 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"PlayAudio",
-                 "type":"file",
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"Bierk\u00f6nig"
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
                  "value":"Bier.mp3"
                 }],
          "type":"tilelayer",
